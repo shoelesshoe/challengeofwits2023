@@ -10,5 +10,5 @@ Armed with programming expertise and knowledge of text processing, you know how 
 
 Can you find the secret key to unlock the safe?
 
-Hint 1: Download Logs.zip from the challenge website.
+Hint 1: Download Logs.zip from the challenge website.  
 Hint 2: Write a script to solve the challenge.
