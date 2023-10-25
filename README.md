@@ -2,6 +2,8 @@
 
 ### Challenge 2
 
+https://www.dtcareers.gov.sg/challenge/
+
 Brief:
 
 Millions of stolen cash was stashed away by terror organisation APOCALYPSE in their safe. A thumb drive Logs.zip with log files was recovered when they were captured. Handed to you, your team’s mission is to find the secret key from the “Logs.zip” files that will unlock the safe to recover the stolen cash.
